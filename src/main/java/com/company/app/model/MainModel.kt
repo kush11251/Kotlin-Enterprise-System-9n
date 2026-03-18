@@ -1,0 +1,1 @@
+data class MainModel(val id: Int, val name: String)
